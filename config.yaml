@@ -1,7 +1,7 @@
-baseURL: https://hugo-toha.github.io
+baseURL: https://bustillos83.github.io
 
 languageCode: en-us
-title: "John's Blog"
+title: "Fernandos Portfolio"
 
 # Use Hugo modules to add theme
 module:
@@ -52,7 +52,7 @@ outputs:
 enableEmoji: true
 
 # Site parameters
-params:
+params: 
   # Background image of the landing page
   background: /images/site/background.jpg
 
@@ -64,7 +64,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/bustillos83/bustillos83.github.io
   # Default branch of your Git repo
   gitBranch: main
 
@@ -139,7 +139,7 @@ params:
 
     # Enable Analytics
     analytics:
-      enabled: true
+      enabled: false
       services:
         # Google Analytics
         google:
